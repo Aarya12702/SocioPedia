@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20230622T160000
+DTEND;TZID=Asia/Kolkata:20230622T170000
+DTSTAMP:20230518T063609Z
+ORGANIZER;CN=darshana.shetty@fischerjordan.com:mailto:darshana.shetty@fisch
+ erjordan.com
+UID:2urmu5ak6074k37ruiee4s8fbl@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=muskan.laul@fischerjordan.com;X-NUM-GUESTS=0:mailto:muskan.laul@fis
+ cherjordan.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=neet.shah@fischerjordan.com;X-NUM-GUESTS=0:mailto:neet.shah@fischer
+ jordan.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=tsec.placement@gmail.com;X-NUM-GUESTS=0:mailto:tsec.placement@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ankith.suresh@fischerjordan.com;X-NUM-GUESTS=0:mailto:ankith.suresh
+ @fischerjordan.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=raghav.goel@fischerjordan.com;X-NUM-GUESTS=0:mailto:raghav.goel@fis
+ cherjordan.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=darshana.shetty@fischerjordan.com;X-NUM-GUESTS=0:mailto:darshana.shetty
+ @fischerjordan.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=kshitish.nanda@fischerjordan.com;X-NUM-GUESTS=0:mailto:kshitish.nan
+ da@fischerjordan.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/mhp-xyzu-ekp
+X-MICROSOFT-CDO-OWNERAPPTID:1410592947
+CREATED:20230518T063607Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/mh
+ p-xyzu-ekp\nOr dial: (US) +1 727-308-2597 PIN: 759791061#\nMore phone numbe
+ rs: https://tel.meet/mhp-xyzu-ekp?pin=4543942224508&hs=7\n\nLearn more abou
+ t Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do n
+ ot edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230518T063607Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TSEC Pre placement Talk
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
